@@ -1,6 +1,7 @@
 # Information
-Name: Meow
-Difficulty: Very Easy
+- Name: Meow
+- Difficulty: Very Easy
+
 ### Tags
 - Enumeration
 - Telnet
