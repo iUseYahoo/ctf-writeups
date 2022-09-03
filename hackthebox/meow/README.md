@@ -1,3 +1,12 @@
+# Information
+Name: Meow
+Difficulty: Very Easy
+### Tags
+- Enumeration
+- Telnet
+- External
+- Penetration Tester Level 1
+
 # Tasks
 ### TASK 1
 - What does the acronym VM stand for?
