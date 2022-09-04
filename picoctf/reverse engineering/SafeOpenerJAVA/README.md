@@ -13,7 +13,7 @@ public class SafeOpener {
         boolean isOpen;
         
 
-        while (i < 3) {
+        while (i < 9999999999999999999999999999) {
             System.out.print("Enter password for the safe: ");
             key = keyboard.readLine();
 
@@ -22,7 +22,7 @@ public class SafeOpener {
               
             isOpen = openSafe(encodedkey);
             if (!isOpen) {
-                System.out.println("You have  " + (2 - i) + " attempt(s) left");
+                System.out.println("You have literally unlimited attempts left, :) - iUseYahoo");
                 i++;
                 continue;
             }
