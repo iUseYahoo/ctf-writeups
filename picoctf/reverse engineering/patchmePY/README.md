@@ -1,4 +1,4 @@
-### (Play the CTF here)[https://play.picoctf.org/practice/challenge/287?category=3&page=1&search=.py]
+### [Play the CTF here](https://play.picoctf.org/practice/challenge/287?category=3&page=1&search=.py)
 ```python
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
 def str_xor(secret, key):
