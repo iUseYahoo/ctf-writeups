@@ -23,6 +23,7 @@ class VaultDoorTraining {
     //
     // -Minion #9567
     public boolean checkPassword(String password) {
+    	System.out.println("The flag :) > picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}");
         return password.equals("w4rm1ng_Up_w1tH_jAv4_eec0716b713");
     }
 }```
