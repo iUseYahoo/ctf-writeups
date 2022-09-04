@@ -1,3 +1,4 @@
+### [Play the CTF here](https://play.picoctf.org/practice/challenge/7?category=3&page=1&search=)
 ```java
 import java.util.*;
 
