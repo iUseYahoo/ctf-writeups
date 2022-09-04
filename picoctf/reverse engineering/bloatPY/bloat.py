@@ -29,9 +29,9 @@ a[81]+a[68]+a[66]+a[83])
 def arg111(arg444):
   # print for figuring out where the script is at when its running
     print("\n-------------------------\narg111 is this\n")
-    return arg122(arg444.decode(), a[81]+a[64]+a[79]+a[82]+a[66]+a[64]+a[75]+\
+    return "\n\nYour PicoCTF flag is : " + arg122(arg444.decode(), a[81]+a[64]+a[79]+a[82]+a[66]+a[64]+a[75]+\
 a[75]+a[72]+a[78]+a[77])
-    print("-----------------------------------\n")
+    print("\n\n-----------------------------------\n")
 
 def arg232():
   # print for figuring out where the script is at when its running
