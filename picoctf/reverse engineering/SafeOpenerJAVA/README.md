@@ -33,7 +33,7 @@ public class SafeOpener {
     public static boolean openSafe(String password) {
         // This looks like base64 to me..
         // Lets decode it in https://www.base64decode.org/ and see if it works
-        // output: pl3as3_l3t_m3_1nt0_th3_saf3
+        // output: pl3as3_l3t_m3_1nt0_th3_saf3     | This is leet typing for "please_let_me_into_the_safe"
         // hmm lets format it to the ctf: picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}
         // Wow, It works when you try to submit it, we found the flag.
         String encodedkey = "cGwzYXMzX2wzdF9tM18xbnQwX3RoM19zYWYz";
